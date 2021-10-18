@@ -19,7 +19,7 @@ The following **extensions** are implemented:
 
 * [x] Custom colors palette selected
 * [x] List anything else that you did to improve the app functionality or design!
-  + Contains "round bill" button that rounds the total amount
+  + Contains "round bill" button that rounds up the total amount
   + Money bag emoji that grows larger depending on tip percentage
 
 ## Video Walkthrough
